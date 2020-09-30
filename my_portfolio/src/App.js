@@ -8,8 +8,6 @@ import Portfolio from "./pages/Portfolio";
 
 
 
-
-
 function App() {
   return (
   <Router>
